@@ -1,0 +1,3 @@
+- Secret sharing scheme solves the problem of a dealer who wishes to share a secret s amongst n parties,
+- Any subset of t+1 or more of the parties can reconstruct the secret, yet no subset of t or fewer parties can learn anything about the secret.
+- A scheme that fulfils these requirements is called a (t+1)-out-of-n-threshold secret-sharing scheme.
